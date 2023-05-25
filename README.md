@@ -1,4 +1,2 @@
-# discord-portfolio
-Discord UI themed portfolio 
-
-<h1>Just replace `name` with your NAME</h1>
+# This is joshuang.origamikingdom.de website code.
+Link 🔗: https://joshuang.origamikingdom.de
